@@ -217,7 +217,7 @@ for (i = 0; i < books.length; i += 1) {
 //Fill in the blanks to make this program work.
 (function () {
     "use strict";
-    var person = {};
+    var person = {window.console.log("Im Rich")};
 
     var car = {price: 10000000};
 
